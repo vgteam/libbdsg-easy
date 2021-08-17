@@ -19,3 +19,6 @@
 [submodule "deps/BBHash"]
 	path = deps/BBHash
 	url = https://github.com/rizkg/BBHash.git
+[submodule "deps/mio"]
+	path = deps/mio
+	url = https://github.com/mandreyel/mio.git
